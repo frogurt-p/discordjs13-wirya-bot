@@ -14,7 +14,6 @@ module.exports = {
 		.setRequired(true)),
 
 	async execute(interaction) {
-        console.log(process.env.API_KEY);
 		function makeid(length) {
 			let result = '';
 			let characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
