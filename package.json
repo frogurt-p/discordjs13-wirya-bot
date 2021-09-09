@@ -1,0 +1,36 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/opus": "^0.3.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@vitalets/google-translate-api": "^4.0.0",
+    "discord-api-types": "^0.22.0",
+    "discord-together": "^1.1.62",
+    "discord-ytdl-core": "^5.0.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "g-i-s": "^2.1.6",
+    "instagram-web-api": "^2.2.2",
+    "latest": "^0.2.0",
+    "opusscript": "0.0.7",
+    "tone": "^14.7.58",
+    "ytdl-core": "^4.8.2",
+    "ytsearcher": "^1.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
