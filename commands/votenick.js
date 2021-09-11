@@ -15,7 +15,7 @@ module.exports = {
         .setRequired(true)),
 
 	async execute(interaction) {
-        const kollektor = interaction.channel.createMessageComponentCollector({ componentType : 'BUTTON', time : 5000 });
+        const kollektor = interaction.channel.createMessageComponentCollector({ componentType : 'BUTTON', time : 60000 });
         let voteYes = 0;
         let voteNo = 0;
         let voterID = [];
