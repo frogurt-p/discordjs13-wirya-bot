@@ -19,7 +19,7 @@ module.exports = {
 			{ name : '/halo', value : 'sapa baguan' },
 			{ name : '/hina || nista', value : 'hina orang || nista orang' },
 			{ name : '/jumbo || *jumbo', value : 'jumbo emoji' },
-			{ name : '/paduka', value : 'cek status paduka'},
+			{ name : '/komok', value : 'perbesar avatar user' },
 			{ name : '/presence', value : 'print presence orang' },
 			{ name : '/votenick', value : 'ubah nick orang dengan vote' },
 			{ name : '/ytlist', value : 'cari video di youtube pake dropdown menu' },
