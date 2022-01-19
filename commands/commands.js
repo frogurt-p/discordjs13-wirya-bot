@@ -11,6 +11,7 @@ module.exports = {
 		.setColor('RANDOM')
 		.setTitle('Wirya Bot Commands')
 		.addFields(
+			{ name : '/activity', value : 'bikin activity game, video, dll' },
 			{ name : '/cepu', value : 'nuduh baguan cepu' },
 			{ name : '/colbar', value : 'nonton youtube di channel' },
 			{ name : '/commands', value : 'keluarin list commands' },
